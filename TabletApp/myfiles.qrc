@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>Agenda_Image.jpg</file>
+        <file>2pages_calendar.png</file>
+        <file>cursor-airbrush.png</file>
+        <file>cursor-eraser.png</file>
+        <file>cursor-felt-marker.png</file>
+        <file>cursor-pencil.png</file>
+        <file>weekly2.jpg</file>
+    </qresource>
+</RCC>
